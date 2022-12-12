@@ -6,7 +6,7 @@
 
     if ('function' === typeof Buffer) {
       return function atobBrowserify(a) {
-        return new Buffer(a, 'base64').toString('binary');
+        return new Buffer(a, 'base64').toString('utf-8');
       };
     }
 
