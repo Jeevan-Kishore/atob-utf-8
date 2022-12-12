@@ -1,0 +1,23 @@
+{
+  "name": "atob",
+  "homepage": "https://github.com/Jeevan-Kishore/atob-utf-8",
+  "description": "atobwith utf-8 support",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jeevan-Kishore/atob-utf-8.git"
+  },
+  "keywords": [
+    "atob",
+    "utf-8"
+  ],
+  "author": "Jeevan Kishore <kishor080@gmail.com>",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "main": "node-atob.js",
+  "browser": "browser-atob.js",
+  "bin": {
+    "atob": "bin/atob.js"
+  },
+  "version": "1.0.0"
+}
