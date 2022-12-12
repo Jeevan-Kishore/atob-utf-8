@@ -1,5 +1,5 @@
 {
-  "name": "atob",
+  "name": "atob-utf-8",
   "homepage": "https://github.com/Jeevan-Kishore/atob-utf-8",
   "description": "atobwith utf-8 support",
   "repository": {
@@ -19,5 +19,6 @@
   "bin": {
     "atob": "bin/atob.js"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "license": "MIT"
 }
