@@ -15,7 +15,7 @@
     "node": ">= 8.0.0"
   },
   "main": "node-atob.js",
-  "browser": "browser-atob.js",
+  "browser": "browser.js",
   "bin": {
     "atob": "bin/atob.js"
   },
